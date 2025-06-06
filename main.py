@@ -19,6 +19,7 @@ def main():
                 return
             
         dt = clock.tick(60)
+        dt *= 0.001
         
         screen.fill("black")
         player.update(dt)
