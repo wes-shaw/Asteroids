@@ -22,5 +22,6 @@
     "editor.suggest.preview": false,
     "github.copilot.enable": {
         "*": false
-    }
+    },
+    "python.REPL.enableREPLSmartSend": false
 }
